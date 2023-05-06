@@ -1,0 +1,29 @@
+body, p {
+    margin: 0;
+}
+
+#intro-pic-img {
+    width:100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+
+#wedding-announcement-div {
+    font-size: 4rem;
+    font-weight: bold;
+    text-align: center;
+    position: absolute;
+    color: #16312C;
+    top: 4rem;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    margin-top: 10%;
+    font-family: 'Parisienne', cursive;
+}
+
+#weds-p {
+    font-size: 2rem;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
