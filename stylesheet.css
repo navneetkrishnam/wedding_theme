@@ -40,6 +40,7 @@ body, p {
     background-color: #6d827d39;
     color: #16312C;
     font-family: 'Parisienne', cursive;
+    box-shadow: 5px 5px 5px 2.5px;
 }
 
 #dateofweddingtitle-p {
