@@ -53,7 +53,7 @@ body, p {
 
 #dateofwedding-p {
     padding-top: 2rem;
-    font-family: 'Parisienne', cursive;
+    font-family: cursive;
     font-size: 4rem;
     font-weight: bold;
     
@@ -62,5 +62,5 @@ body, p {
 #weddingdate-span {
     font-weight: normal;
     font-size: 3rem;
-    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: cursive;
 }
