@@ -80,7 +80,6 @@ body, p {
 
 #aboutbridetitle-p, #aboutgroomtitle-p {
     font-size: 4rem;
-    text-align: right;
 }
 
 .aboutbridegroom-div {
@@ -90,7 +89,6 @@ body, p {
 
 #groomhalf-div {
     margin-top: 5%;
-    border: 1px solid black;
 }
 
 #bridedesc-div, #groomdesc-div {
