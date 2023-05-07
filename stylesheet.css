@@ -76,6 +76,7 @@ body, p {
     background-color: #6d827d39;
     color: #16312C;
     font-family: 'Parisienne', cursive;
+    box-shadow: 1px 1px 5px 5px lightgray;
 }
 
 #aboutbridetitle-p, #aboutgroomtitle-p {
@@ -103,4 +104,9 @@ body, p {
 #aboutbridedesc-p, #aboutgroomdesc-p {
     font-size: 2rem;
     font-weight: normal;
+}
+
+#bridepic-img, #groompic-img {
+    margin-top: 2%;
+    width:400px;
 }
