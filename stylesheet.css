@@ -43,7 +43,7 @@ body, p {
     box-shadow: 1px 1px 5px 5px lightgray;
 }
 
-#dateofweddingtitle-p {
+#dateofweddingtitle-p, #aboutthecoupletitle-p {
     padding-top: 1rem;
     padding-bottom: 1.75rem;
     border-bottom: 2px solid #16312C;
@@ -59,8 +59,9 @@ body, p {
 }
 
 #weddingdate-span {
-    font-size: 3.5rem;
+    font-size: 4rem;
     font-family: cursive;
+    font-weight: bolder;
 }
 
 .aboutthecouple-div {
