@@ -41,6 +41,7 @@ body, p {
     color: #16312C;
     font-family: 'Parisienne', cursive;
     box-shadow: 1px 1px 5px 5px lightgray;
+    border-radius: 25px;
 }
 
 #dateofweddingtitle-p, #aboutthecoupletitle-p {
@@ -66,7 +67,7 @@ body, p {
 
 .aboutthecouple-div {
     font-weight: bold;
-    margin-top: 5%;
+    margin-top: 10%;
     margin-bottom: 2%;
     padding-bottom: 2%;
     padding-top: 2%;
@@ -77,6 +78,7 @@ body, p {
     color: #16312C;
     font-family: 'Parisienne', cursive;
     box-shadow: 1px 1px 5px 5px lightgray;
+    border-radius: 25px;
 }
 
 #aboutbridetitle-p, #aboutgroomtitle-p {
@@ -114,7 +116,7 @@ body, p {
 
 #bridepic-img, #groompic-img {
     margin-top: 2%;
-    width: 400px;
+    width: 350px;
     border: 1rem solid white;
     border-radius: 25px;
     box-shadow: 1px 1px 5px 5px lightgray;
