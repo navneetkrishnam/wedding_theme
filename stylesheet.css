@@ -42,13 +42,19 @@ body, p {
 }
 
 #dateofweddingtitle-p {
-    padding-bottom: 1.5rem;;
+    padding-top: 1rem;
+    padding-bottom: 1.75rem;;
     border-bottom: 2px solid #16312C;;
     margin-left: 5%;
     margin-right: 5%;
     font-size: 2rem;
+    font-weight: bold;
 }
 
 #dateofwedding-p {
-    padding-top: 1.5rem;
+    padding-top: 2rem;
+    font-family: 'Parisienne', cursive;
+    font-size: 4rem;
+    font-weight: bold;
+    
 }
