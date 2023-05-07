@@ -104,9 +104,18 @@ body, p {
 #aboutbridedesc-p, #aboutgroomdesc-p {
     font-size: 2rem;
     font-weight: normal;
+    margin-top: 10%;
+}
+
+#aboutbridetitle-p, #aboutgroomtitle-p {
+    border-bottom: 1px solid #16312C;
+    padding-bottom: 5%;
 }
 
 #bridepic-img, #groompic-img {
     margin-top: 2%;
-    width:400px;
+    width: 400px;
+    border: 1rem solid white;
+    border-radius: 25px;
+    box-shadow: 1px 1px 5px 5px lightgray;
 }
